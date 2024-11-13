@@ -1,0 +1,26 @@
+{
+  "name": "optimaltickets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "dblapi.js": "^2.4.1",
+    "discord-bot-list": "^1.0.1",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.6.1",
+    "fs": "0.0.1-security",
+    "long": "^4.0.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "pm2": "^4.5.0",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4",
+    "ws": "^7.3.1"
+  }
+}
